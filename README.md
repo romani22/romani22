@@ -1,4 +1,4 @@
-# 🎨 José Alberto Romani - Portafolio y CV
+# 😎 🧑🏻‍💻 José Alberto Romani 🧑🏻‍💻 😎 
 
 ¡Bienvenido/a a mi repositorio! Este README está diseñado para presentar mis habilidades, proyectos y experiencia de una forma atractiva y profesional.
 
